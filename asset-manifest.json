@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cra-react/static/css/main.1230c44c.css",
+    "main.js": "/cra-react/static/js/main.d979a26f.js",
+    "static/media/logo.svg": "/cra-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cra-react/index.html",
+    "main.1230c44c.css.map": "/cra-react/static/css/main.1230c44c.css.map",
+    "main.d979a26f.js.map": "/cra-react/static/js/main.d979a26f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1230c44c.css",
+    "static/js/main.d979a26f.js"
+  ]
+}
